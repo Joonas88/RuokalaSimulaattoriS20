@@ -1,0 +1,105 @@
+Tiedosto: 17-10-2020 10-05-57.txt
+Simuloinnin syötteet:
+Saapuvat asiakkaat Negexp 5, 2
+Käsienpesu A Normal, korkeus: 15 leveys: 6
+Käsienpesu B Normal, korkeus: 15 leveys: 6
+Ruokalinja A Normal, korkeus: 8 leveys: 5
+Ruokalinja B Normal, korkeus: 8 leveys: 5
+Ruokalinja C Normal, korkeus: 8 leveys: 5
+Ruokalinja D Normal, korkeus: 8 leveys: 5
+Astianpalautus A Normal, korkeus: 3 leveys: 2
+Astianpalautus B Normal, korkeus: 3 leveys: 2
+Poistuminen Negexp, 6, 15
+
+Simulointi päättyi kello:1001,94
+
+Tulokset:
+
+Saapuneet asiakkaat (A): 221
+Asiakasmäärät (C): 
+Käsienpesu A: 67
+Käsienpesu B: 67
+Ruokalinja A: 61
+Ruokalinja B: 13
+Ruokalinja C: 2
+Ruokalinja D: 58
+Astianpalautus A: 30
+Astianpalautus B: 103
+Poistuminen: 110
+
+Aktiiviajat (B):
+Käsienpesu A: 1005,45
+Käsienpesu B: 998,57
+Ruokalinja A: 474,07
+Ruokalinja B: 106,79
+Ruokalinja C: 22,73
+Ruokalinja D: 499,39
+Astianpalautus A: 84,51
+Astianpalautus B: 320,72
+Poistuminen: 964,07
+
+Palvelupisteiden käyttöasteet (U):
+Käsienpesu A: 100,35%
+Käsienpesu B: 99,66%
+Ruokalinja A: 47,31%
+Ruokalinja B: 10,66%
+Ruokalinja C: 2,27%
+Ruokalinja D: 49,84%
+Astianpalautus A: 8,43%
+Astianpalautus B: 32,01%
+Poistuminen: 96,22%
+
+Suoritusteho (X):
+Käsienpesu A: 6,69
+Käsienpesu B: 6,69
+Ruokalinja A: 6,09
+Ruokalinja B: 1,30
+Ruokalinja C: 0,20
+Ruokalinja D: 5,79
+Astianpalautus A: 2,99
+Astianpalautus B: 10,28
+Poistuminen: 10,98
+
+Keskimääräinen palveluaika (S):
+Käsienpesu A: 15,01
+Käsienpesu B: 14,90
+Ruokalinja A: 7,77
+Ruokalinja B: 8,21
+Ruokalinja C: 11,36
+Ruokalinja D: 8,61
+Astianpalautus A: 2,82
+Astianpalautus B: 3,11
+Poistuminen: 8,76
+
+Keskimääräinen läpimenoaika (R)
+Käsienpesu A: 177,36
+Käsienpesu B: 185,08
+Ruokalinja A: 7,77
+Ruokalinja B: 8,21
+Ruokalinja C: 11,36
+Ruokalinja D: 8,61
+Astianpalautus A: 2,82
+Astianpalautus B: 3,08
+Poistuminen: 100,11
+
+Palvelupisteiden keskimääräinen jonopituus (N):
+Käsienpesu A: 11,86
+Käsienpesu B: 12,38
+Ruokalinja A: 0,47
+Ruokalinja B: 0,11
+Ruokalinja C: 0,02
+Ruokalinja D: 0,50
+Astianpalautus A: 0,08
+Astianpalautus B: 0,32
+Poistuminen: 10,99
+
+Läpimenoajat (W): 
+Käsienpesu A: 11882,89
+Käsienpesu B: 12400,07
+Ruokalinja A: 474,07
+Ruokalinja B: 106,79
+Ruokalinja C: 22,73
+Ruokalinja D: 499,39
+Astianpalautus A: 84,51
+Astianpalautus B: 317,58
+Poistuminen: 11012,50
